@@ -1,0 +1,17 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_cleanup_purge_wizard_module,cleanup.purge.wizard.module,model_cleanup_purge_wizard_module,base.group_erp_manager,1,1,1,1
+access_cleanup_purge_wizard_model,cleanup.purge.wizard.model,model_cleanup_purge_wizard_model,base.group_erp_manager,1,1,1,1
+access_cleanup_purge_wizard_column,cleanup.purge.wizard.column,model_cleanup_purge_wizard_column,base.group_erp_manager,1,1,1,1
+access_cleanup_purge_wizard_table,cleanup.purge.wizard.table,model_cleanup_purge_wizard_table,base.group_erp_manager,1,1,1,1
+access_cleanup_purge_wizard_data,cleanup.purge.wizard.data,model_cleanup_purge_wizard_data,base.group_erp_manager,1,1,1,1
+access_cleanup_purge_wizard_menu,cleanup.purge.wizard.menu,model_cleanup_purge_wizard_menu,base.group_erp_manager,1,1,1,1
+access_cleanup_create_indexes_wizard,cleanup.create.indexes.wizard,model_cleanup_create_indexes_wizard,base.group_erp_manager,1,1,1,1
+access_cleanup_purge_wizard_property,cleanup.purge.wizard.property,model_cleanup_purge_wizard_property,base.group_erp_manager,1,1,1,1
+access_cleanup_purge_line_menu,cleanup.purge.line.menu,model_cleanup_purge_line_menu,base.group_erp_manager,1,1,1,1
+access_cleanup_purge_line_module,cleanup.purge.line.module,model_cleanup_purge_line_module,base.group_erp_manager,1,1,1,1
+access_cleanup_create_indexes_line,cleanup.create.indexes.line,model_cleanup_create_indexes_line,base.group_erp_manager,1,1,1,1
+access_cleanup_purge_line_property,cleanup.purge.line.property,model_cleanup_purge_line_property,base.group_erp_manager,1,1,1,1
+access_cleanup_purge_line_column,cleanup.purge.line.column,model_cleanup_purge_line_column,base.group_erp_manager,1,1,1,1
+access_cleanup_purge_line_data,cleanup.purge.line.data,model_cleanup_purge_line_data,base.group_erp_manager,1,1,1,1
+access_cleanup_purge_line_model,cleanup.purge.line.model,model_cleanup_purge_line_model,base.group_erp_manager,1,1,1,1
+access_cleanup_purge_line_table,cleanup.purge.line.table,model_cleanup_purge_line_table,base.group_erp_manager,1,1,1,1
